@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hvpasindu" alt="hvpasindu" /></a>
 </p>
-
+---
 <h3 align="left">About Me:</h3>
 <ul>
   <li>🔭 I’m currently working on <a href="https://kv-audio-frontend-indol.vercel.app" target="_blank">KV Audio Web Application</a></li>
