@@ -60,8 +60,11 @@
 
 <!-- Snake (will work after workflow fixed) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HVPasindu/HVPasindu/output/snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/HVPasindu/HVPasindu/output/snake.svg" alt="snake animation" />
 </p>
+
+
+
 
 <!-- Footer -->
 <p align="center">
