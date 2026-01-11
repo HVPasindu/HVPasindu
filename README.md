@@ -12,11 +12,12 @@
   <img src="https://komarev.com/ghpvc/?username=hvpasindu&label=Profile%20views&color=0e75b6&style=flat" alt="hvpasindu" />
 </p>
 
+<!-- Animated Activity Graph (Replacement for Trophy) -->
+<h2 align="center">⚡ Activity Graph</h2>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hvpasindu&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hvpasindu&theme=tokyo-night&hide_border=true" alt="activity graph" />
 </p>
+
 
 <!-- Divider -->
 <p align="center">
