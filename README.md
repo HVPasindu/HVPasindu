@@ -12,30 +12,32 @@
   <img src="https://komarev.com/ghpvc/?username=hvpasindu&label=Profile%20views&color=0e75b6&style=flat" alt="hvpasindu" />
 </p>
 
-<!-- Animated Activity Graph (Replacement for Trophy) -->
+<!-- Activity Graph -->
 <h2 align="center">⚡ Activity Graph</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hvpasindu&theme=tokyo-night&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hvpasindu&theme=tokyo-night&hide_border=true" />
 </p>
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-9b8b5e3a-5b8a-4c2d-b3a6-7b1bbf34d6b4.gif" width="550" alt="divider" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-9b8b5e3a-5b8a-4c2d-b3a6-7b1bbf34d6b4.gif" width="550" />
 </p>
 
+<!-- About Me -->
 <h2 align="left">🚀 About Me</h2>
 <ul>
-  <li>🔭 I recently completed <a href="https://www.dentpulseclinic.com/" target="_blank">DentPulse Clinic Website</a></li>
-  <li>🚀 Built a <a href="https://studenthub-sable.vercel.app/" target="_blank">StudentHub – Student Management System</a></li>
-  <li>🌱 I’m currently learning <b>MERN Stack</b>, <b>React</b>, <b>JavaScript</b>, <b>Java</b>, <b>C</b></li>
-  <li>👯 I’m looking to collaborate on <b>Web Development Projects</b></li>
-  <li>🤝 I’m looking for help with <b>Advanced MERN Concepts</b></li>
+  <li>🚀 Built my first MERN Stack project <a href="https://kv-audio-frontend-indol.vercel.app/" target="_blank">KV Audio Web Application</a></li>
+  <li>🌐 Developed a real-world website <a href="https://www.dentpulseclinic.com/" target="_blank">DentPulse Clinic Website</a></li>
+  <li>📚 Created a frontend system <a href="https://studenthub-sable.vercel.app/" target="_blank">StudentHub – Student Management System</a></li>
+  <li>🌱 Currently learning <b>MERN Stack</b>, <b>React</b>, <b>JavaScript</b>, <b>Java</b>, <b>C</b></li>
+  <li>👯 Looking to collaborate on <b>Web Development Projects</b></li>
   <li>💬 Ask me about <b>React</b>, <b>JavaScript</b>, <b>Frontend Development</b>, <b>Material UI</b></li>
-  <li>📫 How to reach me: <b>hvpmjayarathna2001@gmail.com</b></li>
+  <li>📫 Reach me: <b>hvpmjayarathna2001@gmail.com</b></li>
 </ul>
 
 <hr/>
 
+<!-- Connect -->
 <h2 align="left">🌐 Connect With Me</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/pasindu-madubhashna-80546233a" target="_blank">
@@ -48,20 +50,21 @@
 
 <hr/>
 
+<!-- Tools -->
 <h2 align="left">🧰 Languages & Tools</h2>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,html,css,java,c,php,git,github,vercel,postman&perline=6" />
 </p>
 
-<!-- Keep ONLY the 3rd image (Streak) -->
+<!-- Streak -->
 <h2 align="left">🔥 GitHub Streak</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hvpasindu&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hvpasindu&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- Snake (will work after workflow fixed) -->
+<!-- Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HVPasindu/HVPasindu/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/HVPasindu/HVPasindu/output/snake.svg" />
 </p>
 
 <!-- Footer -->
