@@ -18,7 +18,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hvpasindu&theme=tokyo-night&hide_border=true" alt="activity graph" />
 </p>
 
-
 <!-- Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750147-9b8b5e3a-5b8a-4c2d-b3a6-7b1bbf34d6b4.gif" width="550" alt="divider" />
@@ -26,11 +25,12 @@
 
 <h2 align="left">🚀 About Me</h2>
 <ul>
-  <li>🔭 I’m currently working on <a href="https://kv-audio-frontend-indol.vercel.app" target="_blank">KV Audio Web Application</a></li>
-  <li>🌱 I’m currently learning <b>MERN Stack</b>, <b>React</b>, <b>HTML</b>, <b>Java</b>, <b>C</b></li>
+  <li>🔭 I recently completed <a href="https://www.dentpulseclinic.com/" target="_blank">DentPulse Clinic Website</a></li>
+  <li>🚀 Built a <a href="https://studenthub-sable.vercel.app/" target="_blank">StudentHub – Student Management System</a></li>
+  <li>🌱 I’m currently learning <b>MERN Stack</b>, <b>React</b>, <b>JavaScript</b>, <b>Java</b>, <b>C</b></li>
   <li>👯 I’m looking to collaborate on <b>Web Development Projects</b></li>
-  <li>🤝 I’m looking for help with <b>Learning New Web Technologies</b></li>
-  <li>💬 Ask me about <b>React</b>, <b>JavaScript</b>, <b>Web Development</b></li>
+  <li>🤝 I’m looking for help with <b>Advanced MERN Concepts</b></li>
+  <li>💬 Ask me about <b>React</b>, <b>JavaScript</b>, <b>Frontend Development</b>, <b>Material UI</b></li>
   <li>📫 How to reach me: <b>hvpmjayarathna2001@gmail.com</b></li>
 </ul>
 
@@ -50,7 +50,7 @@
 
 <h2 align="left">🧰 Languages & Tools</h2>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,html,css,java,c,php,git&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,html,css,java,c,php,git,github,vercel,postman&perline=6" />
 </p>
 
 <!-- Keep ONLY the 3rd image (Streak) -->
@@ -64,11 +64,7 @@
   <img src="https://raw.githubusercontent.com/HVPasindu/HVPasindu/output/snake.svg" alt="snake animation" />
 </p>
 
-
-
-
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
-
