@@ -29,6 +29,7 @@
   <li>🚀 Built my first MERN Stack project <a href="https://kv-audio-frontend-indol.vercel.app/" target="_blank">KV Audio Web Application</a></li>
   <li>🌐 Developed a real-world website <a href="https://www.dentpulseclinic.com/" target="_blank">DentPulse Clinic Website</a></li>
   <li>📚 Created a frontend system <a href="https://studenthub-sable.vercel.app/" target="_blank">StudentHub – Student Management System</a></li>
+  <li>🌐 Developed a real-world website <a href="https://expense-tracker-delta-one-62.vercel.app/" target="_blank">Expense Tracker Web Application💰</a></li>
   <li>⚙️ Experienced in backend development with <b>Spring Boot</b> and <b>REST API</b> development</li>
   <li>📱 Built mobile applications using <b>React Native</b> with API integration</li>
   <li>☁️ Worked with <b>AWS</b> for backend deployment and explored <b>CI/CD</b> and <b>n8n</b></li>
